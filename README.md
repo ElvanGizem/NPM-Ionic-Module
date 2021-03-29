@@ -14,7 +14,7 @@ Npm kurulumunu kontrol etmek için komut satırına npm -v yazarak kontrol edebi
 
 ![örnek2](https://github.com/bensemben/diginova/blob/main/Images/example2.png)
 
-##Başlarken
+## Başlarken
 
 Modülümüzü oluşturmak için öncelikle masaüstünde bir klasör oluşturuyoruz.
 Komut satırından  dosya oluşturmak için:
@@ -24,7 +24,7 @@ Komut satırından  dosya oluşturmak için:
  -cd desktop
  -mkdir diginova
  
- ###2-VsCode ile  Modülün Oluşturulması
+ ### 2-VsCode ile  Modülün Oluşturulması
 Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoruz. Proje klasöründe bir tane package.json dosyası oluşturuyoruz.
 
 
