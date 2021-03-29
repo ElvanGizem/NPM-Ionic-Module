@@ -33,6 +33,7 @@ Windows kullanıyorsanız eğer cmd'yi yönetici olarak çalıştırın , MAC/Li
    MAC için;
    
    `$cd ~/Desktop`
+   
    `$mkdir diginova`
    
    
