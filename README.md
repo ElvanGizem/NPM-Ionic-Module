@@ -9,3 +9,46 @@ Nodejs yüklendiğini kontrol etmek için komut satırına node -v  yazarak kont
 
 
 ![örnek1](https://github.com/bensemben/diginova/blob/main/Images/example.png)
+
+
+
+`{
+  "name": "my_portalium-package",
+  "version": "1.0.3",
+  "description": "Bu benim ilk test modulum",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "ngc": "ngc",
+    "build": "del -rf dist && npm run ngc",
+    "publishPackage": "npm run build && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "",
+  "bugs": {
+    "url": ""
+  },
+  "devDependencies": {
+    "@angular/common": "^5.0.3",
+    "@angular/compiler": "^5.0.3",
+    "@angular/compiler-cli": "^5.0.3",
+    "@angular/core": "^5.2.11",
+    "@angular/forms": "^5.2.11",
+    "@angular/platform-browser": "^5.0.3",
+    "@angular/platform-browser-dynamic": "^5.0.3",
+    "ionic-angular": "^3.9.2",
+    "rxjs": "^5.5.2",
+    "typescript": "^2.4.2",
+    "zone.js": "^0.8.18"
+  }
+}
+`
