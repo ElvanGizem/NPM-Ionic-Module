@@ -35,6 +35,8 @@ Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoru
 ###### 1.Adım
 
 Bu metaveriler üzerinden projeyi tanımlamış oluyoruz.
+Windows kulanalar `"build": "del -rf dist && npm run ngc",` bu şekilde build yapmalı.
+MAC/Linux kullananlar  `"build": "rm -rf dist && npm run ngc"` bu şekilde build yapmalı.
 
 ###### Package.json
 
