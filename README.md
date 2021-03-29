@@ -27,7 +27,7 @@ Komut satırından  dosya oluşturmak için:
  - mkdir diginova
  
  ### 2-VsCode ile  Modülün Oluşturulması
-Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoruz. Proje klasöründe paketleri kullanmak için bir tane package.json dosyası oluşturuyoruz.Package json içeriği aşağıdaki gibidir.
+Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoruz. Proje klasöründe paketleri kullanmak için bir tane package.json dosyası oluşturuyoruz.Package json içeriği aşağıdaki gibidir.Bu metaveriler üzerinden projeyi tanımlamış oluyoruz.
 
 ###### Package.json
 
