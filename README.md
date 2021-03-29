@@ -23,7 +23,7 @@ Klasör oluşturmak için öncelikle ;
 
 Windows kullanıyorsanız eğer cmd'yi yönetici olarak çalıştırın ,
 
-MAC/Linux kullanıyorsanız `$sudo` kullanarak çalıştırın.
+MAC/Linux kullanıyorsanız terminalde `$sudo` kullanarak çalıştırın.
 
    Windows için;
 
