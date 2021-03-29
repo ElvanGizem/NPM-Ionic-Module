@@ -29,7 +29,7 @@ Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoru
 
 ###### Package.json
 
-`{
+```{
   "name": "my_portalium-package",
   "version": "1.0.3",
   "description": "Bu benim ilk test modulum",
@@ -68,4 +68,4 @@ Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoru
     "zone.js": "^0.8.18"
   }
 }
-`
+```
