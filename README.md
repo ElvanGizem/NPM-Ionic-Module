@@ -42,13 +42,13 @@ MAC/Linux kullanıyorsanız `$sudo` kullanarak çalıştırın.
    
  
  ### 2-VsCode Kullanarak Modülün Oluşturulması
-Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoruz. Proje klasöründe paketleri kullanmak için bir tane package.json dosyası oluşturuyoruz.Package json içeriği aşağıdaki gibidir. 
+Oluşturduğumuz diginova klasörünü Visual Studio Code ile açıyoruz. Proje klasöründe paketleri kullanmak için bir tane package.json dosyası oluşturuyoruz.Package json içeriği aşağıdaki gibidir. 
 
 ###### 1.Adım
 
 Bu metaveriler üzerinden projeyi tanımlamış oluyoruz.
 
-Windows kullanalar `"build": "del -rf dist && npm run ngc",` bu şekilde build yapmalı.
+Windows kullananlar `"build": "del -rf dist && npm run ngc",` bu şekilde build yapmalı.
 
 MAC/Linux kullananlar  `"build": "rm -rf dist && npm run ngc"` bu şekilde build yapmalı.
 
