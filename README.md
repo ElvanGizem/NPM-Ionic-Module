@@ -7,13 +7,13 @@
  ---
 **Npm nasıl kurulur?**
 
- Npm yükleyebilmek için Windows işletim sistemi kullananıyosanız[https://nodejs.org/en/](https://nodejs.org/en/) sitesinden node.js kurulumunu gerçekleştirdiğinizde npm de otomatik olarak yüklenmiş olur.
-Nodejs yüklendiğini kontrol etmek için komut satırına $node -v  yazabilirsiniz.
+ Npm yükleyebilmek için Windows işletim sistemi kullanıyorsanız [https://nodejs.org/en/](https://nodejs.org/en/) sitesinden node.js kurulumunu gerçekleştirdiğinizde npm de otomatik olarak yüklenmiş olur.
+Nodejs yüklendiğini kontrol etmek için komut satırına `$node -v`  yazabilirsiniz.
 
 
 
 
-Npm kurulumunu kontrol etmek için komut satırına $npm -v yazabilirsiniz.
+Npm kurulumunu kontrol etmek için komut satırına `$npm -v` yazabilirsiniz.
 
 
 
