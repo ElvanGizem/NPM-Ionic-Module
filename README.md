@@ -18,7 +18,7 @@ Npm kurulumunu kontrol etmek için komut satırına `$npm -v` yazabilirsiniz.
 
 ## Başlarken
 
-Modülümüzü oluşturmak için masaüstünde bir klasör oluşturuyoruz.
+Modülümüzü oluşturmak için masaüstünde bir klasör oluşturmamız gerekiyor.
 Klasör oluşturmak için öncelikle ;
 
 Windows kullanıyorsanız eğer cmd'yi yönetici olarak çalıştırın ,
@@ -38,7 +38,8 @@ MAC/Linux kullanıyorsanız terminalde `$sudo` kullanarak çalıştırın.
    
    `$mkdir diginova`
    
-   
+  
+  komutlarını çalıştırdığınızda klasör masaüstünde oluşturulacaktır.
  
  ### 2-VsCode Kullanarak Modülün Oluşturulması
 Oluşturduğumuz diginova klasörünü Visual Studio Code ile açıyoruz. Proje klasöründe paketleri kullanmak için bir tane package.json dosyası oluşturuyoruz.Package json içeriği aşağıdaki gibidir. 
