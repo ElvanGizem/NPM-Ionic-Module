@@ -19,7 +19,7 @@ Npm kurulumunu kontrol etmek için komut satırına `$npm -v` yazabilirsiniz.
 
 ## Başlarken
 
-Modülümüzü oluşturmak için öncelikle masaüstünde bir klasör oluşturuyoruz.
+Modülümüzü oluşturmak için masaüstünde bir klasör oluşturuyoruz.
 Klasör oluşturmak için öncelikle ;
 
 Windows kullanıyorsanız eğer cmd'yi yönetici olarak çalıştırın ,
