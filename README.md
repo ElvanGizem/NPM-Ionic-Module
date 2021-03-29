@@ -1,4 +1,4 @@
-   # NPM kullanarak Ionic Modülün Yayınlanması-1
+   # NPM Kullanarak Ionic Modülün Yayınlanması-1
    
 **NPM Nedir?**
  Node Package Manager, açık kaynaklı  Node.js için paket yöneticisidir  ve komut satırı üzerinden çalışır. Front-end web uygulamaları, mobil uygulamalar, robotlar, yönlendiriciler ve JavaScript kod paketleri için genel bir depodur . Bağımlılıkları yönetir ve bu bağımlılıklar package.json’da tanımlanır. Kendi modülünüzü paylaşmak istiyorsanız npm’in kendi sitesinde oturum açmanız yeterlidir.
@@ -9,6 +9,23 @@ Nodejs yüklendiğini kontrol etmek için komut satırına node -v  yazarak kont
 
 
 ![örnek1](https://github.com/bensemben/diginova/blob/main/Images/example.png)
+
+Npm kurulumunu kontrol etmek için komut satırına npm -v yazarak kontrol edebilirsiniz.
+
+![örnek2](https://github.com/bensemben/diginova/blob/main/Images/example2.png)
+
+##Başlarken
+
+Modülümüzü oluşturmak için öncelikle masaüstünde bir klasör oluşturuyoruz.
+Komut satırından  dosya oluşturmak için:
+
+ -Başlata tıklayın
+ -Komut satırı yazın
+ -cd desktop
+ -mkdir diginova
+ 
+ ###2-VsCode ile  Modülün Oluşturulması
+Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoruz. Proje klasöründe bir tane package.json dosyası oluşturuyoruz.
 
 
 
