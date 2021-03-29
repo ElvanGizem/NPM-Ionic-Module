@@ -30,6 +30,8 @@ Komut satırından  dosya oluşturmak için:
  ### 2-VsCode Kullanarak Modülün Oluşturulması
 Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoruz. Proje klasöründe paketleri kullanmak için bir tane package.json dosyası oluşturuyoruz.Package json içeriği aşağıdaki gibidir.Bu metaveriler üzerinden projeyi tanımlamış oluyoruz.
 
+###### 1.Adım
+
 ###### Package.json
 
 ```{
@@ -72,3 +74,38 @@ Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoru
   }
 }
 ```
+###### 2.Adım
+
+TypeScript derleyicimize projemiz hakkında bilgi vermek için bir tsconfig.json dosyası oluşturuyoruz.
+
+###### tsconfig.json
+
+```
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "target": "es5",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "inlineSources": true,
+        "declaration": true,
+        "noImplicitAny": false,
+        "experimentalDecorators": true,
+        "lib": ["dom", "es2015"],
+        "outDir": "dist"
+    },
+    "exclude": [
+        "node_modules",
+        "dist",
+        "scripts"
+    ],
+    "angularCompilerOptions": {
+        "skipTemplateCodegen": true
+    }
+    }
+```
+
+vsCode terminalde `npm install ` ile projemize modülü yüklüyoruz.
+
+Ardından..
+VsCode editörümüzde bir src klasörü oluşturuyoruz.
