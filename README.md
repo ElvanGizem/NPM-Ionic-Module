@@ -23,14 +23,17 @@ Modülümüzü oluşturmak için öncelikle masaüstünde bir klasör oluşturuy
 Dosya oluşturmak için öncelikle bir terminal açıyoruz ve ardından ;
 
    `$cd desktop`
+   
    `$mkdir diginova`
    
    
  
  ### 2-VsCode Kullanarak Modülün Oluşturulması
-Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoruz. Proje klasöründe paketleri kullanmak için bir tane package.json dosyası oluşturuyoruz.Package json içeriği aşağıdaki gibidir. Bu metaveriler üzerinden projeyi tanımlamış oluyoruz.
+Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoruz. Proje klasöründe paketleri kullanmak için bir tane package.json dosyası oluşturuyoruz.Package json içeriği aşağıdaki gibidir. 
 
 ###### 1.Adım
+
+Bu metaveriler üzerinden projeyi tanımlamış oluyoruz.
 
 ###### Package.json
 
