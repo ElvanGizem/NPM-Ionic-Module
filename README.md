@@ -1,4 +1,4 @@
-   # NPM Kullanarak Ionic Modülün Yayınlanması-1
+   # NPM Kullanarak Ionic Modülün Yayınlanması
    
 **NPM Nedir?**
 
