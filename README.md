@@ -9,12 +9,12 @@ Nodejs yüklendiğini kontrol etmek için komut satırına node -v  yazarak kont
 
 
 ![örnek1](https://github.com/bensemben/diginova/blob/main/Images/example.png)
-`node-v`
+
 
 Npm kurulumunu kontrol etmek için komut satırına npm -v yazarak kontrol edebilirsiniz.
 
 ![örnek2](https://github.com/bensemben/diginova/blob/main/Images/example2.png)
-`npm -v`
+
 
 ## Başlarken
 
