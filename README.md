@@ -19,10 +19,10 @@ Npm kurulumunu kontrol etmek için komut satırına npm -v yazarak kontrol edebi
 Modülümüzü oluşturmak için öncelikle masaüstünde bir klasör oluşturuyoruz.
 Komut satırından  dosya oluşturmak için:
 
- -Başlata tıklayın
- -Komut satırı yazın
- -cd desktop
- -mkdir diginova
+ - Başlata tıklayın
+ - Komut satırı yazın
+ - cd desktop
+ - mkdir diginova
  
  ### 2-VsCode ile  Modülün Oluşturulması
 Oluşturduğumuz diginova klasörünü Visual Studio Code yardımıyla açıyoruz. Proje klasöründe bir tane package.json dosyası oluşturuyoruz.
