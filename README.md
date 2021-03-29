@@ -23,8 +23,16 @@ Modülümüzü oluşturmak için öncelikle masaüstünde bir klasör oluşturuy
 Klasör oluşturmak için öncelikle bir terminal açıyoruz ve ardından;
 Windows kullanıyorsanız eğer cmd'yi yönetici olarak çalıştırın , MAC/Linux kullanıyorsanız `$sudo` kullanarak çalıştırın.
 
+   Windows için;
+
    `$cd desktop`
    
+   `$mkdir diginova`
+   
+   
+   MAC için;
+   
+   `$cd ~/Desktop`
    `$mkdir diginova`
    
    
