@@ -8,7 +8,9 @@
 **Npm Nasıl Kurulur?**
 
  Npm yükleyebilmek için  [https://nodejs.org/en/](https://nodejs.org/en/) sitesinden node.js kurulumunu gerçekleştirdiğinizde npm de otomatik olarak yüklenmiş olur.
+ 
 Nodejs yüklendiğini kontrol etmek için komut satırına `$node -v`  yazabilirsiniz.
+
 Npm kurulumunu kontrol etmek için komut satırına `$npm -v` yazabilirsiniz.
 
 
@@ -18,7 +20,9 @@ Npm kurulumunu kontrol etmek için komut satırına `$npm -v` yazabilirsiniz.
 
 Modülümüzü oluşturmak için masaüstünde bir klasör oluşturuyoruz.
 Klasör oluşturmak için öncelikle ;
+
 Windows kullanıyorsanız eğer cmd'yi yönetici olarak çalıştırın ,
+
 MAC/Linux kullanıyorsanız `$sudo` kullanarak çalıştırın.
 
    Windows için;
@@ -42,7 +46,9 @@ Oluşturduğumuz diginova klasörünü Visual Studio Code ile açıyoruz. Proje 
 ###### 1.Adım
 
 Bu metaveriler üzerinden projeyi tanımlamış oluyoruz.
+
 Windows kullananlar `"build": "del -rf dist && npm run ngc",` bu şekilde build yapmalı.
+
 MAC/Linux kullananlar  `"build": "rm -rf dist && npm run ngc"` bu şekilde build yapmalı.
 
 ###### Package.json
