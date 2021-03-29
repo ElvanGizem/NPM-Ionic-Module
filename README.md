@@ -124,7 +124,7 @@ TypeScript derleyicimize projemiz hakkında bilgi vermek için bir tsconfig.json
     }
 ```
 
-VsCode terminalde `npm install ` ile projemize modülü yüklüyoruz.
+VsCode'da new terminalden yeni bir komut satırı açtıktan sonra  `npm install ` komutunu çalıştırıp projemize modülü yüklüyoruz. Node_module klasörüne package.json içerisine eklediğiniz paketler kurulacaktır.
 
 Ardından..
 VsCode editörümüzde bir src klasörü oluşturuyoruz.
