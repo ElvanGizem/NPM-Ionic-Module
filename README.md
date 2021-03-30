@@ -42,7 +42,7 @@ MAC/Linux kullanıyorsanız terminalde `$sudo` kullanarak çalıştırın.
   komutlarını çalıştırdığınızda klasör masaüstünde oluşturulacaktır.
  
  ### 2-VsCode Kullanarak Modülün Oluşturulması
-Oluşturduğumuz diginova klasörünü Visual Studio Code ile açıyoruz. Proje klasöründe paketleri kullanmak için bir tane package.json dosyası oluşturuyoruz.Package json içeriği aşağıdaki gibidir. 
+Oluşturduğumuz diginova klasörünü Visual Studio Code ile açıyoruz. Visual Studio Code Linux, Mac OS ve Windows işletim sistemlerinde çalışan IDE ortamıdır.  Proje klasöründe paketleri kullanmak için bir tane package.json dosyası oluşturuyoruz.Package json içeriği aşağıdaki gibidir. 
 
 ###### 1.Adım
 
