@@ -145,7 +145,7 @@ Proje için öncelikle masaüstünde bir klasör oluşturuyoruz.
    
    `$cd ~/Desktop`
    
-   `$mkdir diginova`
+   `$mkdir ionic`
    
    
    klasörümüzü oluşturduktan sonra komut satırına bu kodları yazmalıyız.
