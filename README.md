@@ -131,7 +131,7 @@ Ardından..
 VsCode editörümüzde bir src klasörü oluşturuyoruz.
 Kütüphane hakkındaki bilgilere devam etmeden önce kütüphaneyi kullanan ionic uygulamasını oluşturuyoruz.
 
-###### İonic uygulamasının oluşturulması 
+### İonic uygulamasının oluşturulması 
 
 Proje için öncelikle masaüstünde bir klasör oluşturuyoruz.
 
@@ -169,4 +169,4 @@ Ek olarak Anguların  kurulum ve sembolik bağlantılarıyla ilgili küçük bir
 
 ```
 
-##### Kütüphaneye İonic Ekleme
+### Kütüphaneye İonic Ekleme
