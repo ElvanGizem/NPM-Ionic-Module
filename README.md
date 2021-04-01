@@ -129,3 +129,24 @@ VsCode'da new terminalden yeni bir komut satırı açtıktan sonra  `npm install
 
 Ardından..
 VsCode editörümüzde bir src klasörü oluşturuyoruz.
+Kütüphane hakkındaki bilgilere devam etmeden önce kütüphaneyi kullanan ionic uygulamasını oluşturuyoruz.
+
+###### İonic uygulamasının oluşturulması 
+
+Proje için öncelikle masaüstünde bir klasör oluşturuyoruz.
+
+   Windows için;
+
+   `$cd desktop`
+   
+   `$mkdir ionic`
+   
+   MAC için;
+   
+   `$cd ~/Desktop`
+   
+   `$mkdir diginova`
+   
+`ionic start devdacticLibraryApp blank --type=angular --capacitor`
+`cd ./devdacticLibraryApp`
+`npm link devdactic-lib`
