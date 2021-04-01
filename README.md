@@ -147,6 +147,9 @@ Proje için öncelikle masaüstünde bir klasör oluşturuyoruz.
    
    `$mkdir diginova`
    
+   
+   klasörümüzü oluşturduktan sonra komut satırına bu kodları yazmalıyız.
+   
 `ionic start devdacticLibraryApp blank --type=angular --capacitor`
 
 `cd ./devdacticLibraryApp`
