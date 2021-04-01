@@ -195,3 +195,11 @@ Ionic projeniz hazır çalışabilirliğini kontrol etmek için proje klasörün
   
 
 ### Kütüphaneye İonic Ekleme
+
+Şu ana kadar Angular kütüphanesinin Ionic projesiyle bir bağımlılığı bulunmuyor. Ionic'i bir geliştirme bağımlılığı olarak yüklememiz gerekir:
+
+```	
+cd projects/devdactic-lib
+npm i @ionic/angular --save-dev
+```
+
