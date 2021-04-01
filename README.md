@@ -155,3 +155,16 @@ Proje için öncelikle masaüstünde bir klasör oluşturuyoruz.
 `cd ./devdacticLibraryApp`
 
 `npm link devdactic-lib`
+
+
+Ayrıca Angular kurulum ve sembolik bağlantılarla ilgili küçük bir sorun var ve bunu düzeltmek için şimdi Ionic projesinin içindeki angular.json dosyanızı açmalı ve gösterilen yola preserveSymlinks girişini eklemelisiniz:
+
+```
+ "projects": {
+    "app": {
+      "architect": {
+        "build": {
+          "options": {
+            "preserveSymlinks": true,
+
+```
