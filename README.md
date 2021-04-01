@@ -169,4 +169,29 @@ Ek olarak Anguların  kurulum ve sembolik bağlantılarıyla ilgili küçük bir
 
 ```
 
+src / app / home / home.module.ts'ye küçük bir test olarak ekleyebilirsiniz :
+
+```
+import { DevdacticLibModule } from 'devdactic-lib';
+ 
+@NgModule({
+  imports: [
+    CommonModule,
+    FormsModule,
+    IonicModule,
+    HomePageRoutingModule,
+    DevdacticLibModule
+  ],
+  ```
+  src / app / home / home.page.html  sayfasına test için şu komutu ekliyoruz:
+  
+  ```
+  <ion-content>
+ <dev-devdactic-lib></dev-devdactic-lib>
+</ion-content>
+```
+
+Ionic projenizin çalışabilirliğini kontrol etmek için proje klasöründe terminal açıp   `ionic serve` komutunu çalıştırmalısınız.
+  
+
 ### Kütüphaneye İonic Ekleme
