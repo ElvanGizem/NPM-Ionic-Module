@@ -168,3 +168,5 @@ Ek olarak Anguların  kurulum ve sembolik bağlantılarıyla ilgili küçük bir
             "preserveSymlinks": true,
 
 ```
+
+##### Kütüphaneye İonic Ekleme
