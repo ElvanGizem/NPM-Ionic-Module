@@ -191,7 +191,7 @@ import { DevdacticLibModule } from 'devdactic-lib';
 </ion-content>
 ```
 
-Ionic projenizin çalışabilirliğini kontrol etmek için proje klasöründe terminal açıp   `ionic serve` komutunu çalıştırmalısınız.
+Ionic projeniz hazır çalışabilirliğini kontrol etmek için proje klasöründe terminal açıp   `ionic serve` komutunu çalıştırmalısınız.
   
 
 ### Kütüphaneye İonic Ekleme
